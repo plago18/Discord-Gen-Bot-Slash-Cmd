@@ -3,8 +3,6 @@
 ## 💥 About
 Discord Gen Bot 
 This Bot Help You To Give Accounts In Your Discord Server Slash Cmd Support
-Made By ScienceGear#4409
-
 
 
 
